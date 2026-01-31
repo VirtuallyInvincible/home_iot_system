@@ -1,3 +1,5 @@
+WARNING: I TAKE NO RESPONSIBILITY FOR THE USE OF THIS PROJECT BY ANY THIRD PARTY! BE ADVICED IT CONTAINS ELECTRICAL AND CLOUD COMPONENTS. USE AT YOUR OWN PERIL!
+
 To run the IOT project:
 
 \- Go to AWS Management Console -> Lambda -> select a lambda -> Configurations -> Concurrency and recursion detection -> under Concurrency, click Edit -> Check "Use unreserved account concurrency" -> Click save.
